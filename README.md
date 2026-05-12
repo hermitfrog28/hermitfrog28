@@ -4,17 +4,18 @@
 
 <div align="center">
 
-<h2>⛩️ hello, wanderer</h2>
+<h2>⛩️ <i>hello, wanderer</i></h2>
 
 <p>
   <i>i'm Ann, a student at Moscow Aviation Institute.</i><br>
   here i collect my code, small projects and little experiments.
 </p>
 
-<p>
-  <code>student</code> · <code>Moscow Aviation Institute</code> · <code>learning to code</code> · <code>small projects</code>
-</p>
 
-<img src="forest.gif" alt="Dark forest gif" width="360" />
+`Python` · `C++` · `C#`  · `Git` · `Docker`   
+
+
+
+<img src="forest.gif" alt="Dark forest gif" width="460" />
 
 </div>
