@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="haruki.png" alt="Welcome, traveler. This is my code sanctuary." width="850" />
+  <img src="hr2.jpg" alt="Welcome, traveler. This is my code sanctuary." width="850" />
 </p>
