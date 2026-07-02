@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2>⛩️ <i>hello, wanderer</i></h2>
+<h2> <i>hello!</i></h2>
 
 <p>
   <i>i'm Ann, a student at Moscow Aviation Institute.</i><br>
